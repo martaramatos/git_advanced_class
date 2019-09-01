@@ -7,3 +7,5 @@ const goodMorningWorld = function() {
 }
 
 console.log(helloWorld());
+
+console.log("Almost there!");
